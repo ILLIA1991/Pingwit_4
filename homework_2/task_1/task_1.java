@@ -1,5 +1,6 @@
 package org.example.homework_2.task_1;
 
+// название класса с большой буквы
 public class task_1 {
     public static void main(String[] args) {
         int km = 10;
