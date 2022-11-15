@@ -1,4 +1,4 @@
-package org.example.homework_2;
+package org.example.homework_2.task_1;
 
 public class task_1 {
     public static void main(String[] args) {
@@ -9,5 +9,4 @@ public class task_1 {
             System.out.println(km);
         }
     }
-}
 }
