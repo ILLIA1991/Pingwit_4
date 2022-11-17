@@ -1,7 +1,7 @@
-package org.example.homework_2.task_1;
+package org.example.homework_2;
 
 // название класса с большой буквы
-public class task_1 {
+public class Trening {
     public static void main(String[] args) {
         int km = 10;
         System.out.println(km);

@@ -1,6 +1,6 @@
-package org.example.homework_2.task_4;
+package org.example.homework_2;
 
-public class task_4 {
+public class Programm {
     public static void main(String[] args) {
         int a = 8;
         int b;

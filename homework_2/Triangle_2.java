@@ -1,6 +1,6 @@
-package org.example.homework_2.task_9;
+package org.example.homework_2;
 
-public class task_11 {
+public class Triangle_2 {
     public static void main(String[] args) {
         int i = 4;
         int j = 4;
