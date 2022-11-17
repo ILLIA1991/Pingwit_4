@@ -1,4 +1,4 @@
-package org.example.homework_2;
+package org.example.homework_2.task_6;
 
 public class Even {
     public static void main(String[] args) {

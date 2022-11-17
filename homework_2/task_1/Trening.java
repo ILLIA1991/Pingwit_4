@@ -1,4 +1,4 @@
-package org.example.homework_2;
+package org.example.homework_2.task_1;
 
 // название класса с большой буквы
 public class Trening {

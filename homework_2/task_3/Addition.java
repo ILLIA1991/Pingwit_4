@@ -1,4 +1,4 @@
-package org.example.homework_2;
+package org.example.homework_2.task_3;
 
 public class Addition {
     public static void main(String[] args) {

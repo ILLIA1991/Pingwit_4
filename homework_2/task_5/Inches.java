@@ -1,4 +1,4 @@
-package org.example.homework_2;
+package org.example.homework_2.task_5;
 
 public class Inches {
     public static void main(String[] args) {

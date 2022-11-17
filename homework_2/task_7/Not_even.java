@@ -1,4 +1,4 @@
-package org.example.homework_2;
+package org.example.homework_2.task_7;
 
 public class Not_even {
     public static void main(String[] args) {
